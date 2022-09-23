@@ -1,2 +1,5 @@
-REACT API QUOTES
-Es una sencilla aplicación React que consume citas de frases de la serie Breaking Bad, usando el servicio de "The Breaking Bad API"
+# REACT API QUOTES
+It's a simple app that consumes "The Breaking Bad API", to show Breaking Bad's quotes.
+
+### Demo!
+Go to https://geofighter.github.io/React-APIQuotes/ 
